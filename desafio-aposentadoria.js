@@ -3,7 +3,7 @@
 
 const nome = 'Willian'
 const sexo = 'M'
-const idade = 51
+const idade = 50
 const contribuicao = 23
 
 const calculoContribuicao = idade + contribuicao
