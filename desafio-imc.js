@@ -2,7 +2,7 @@
 
 const nome = 'maicon'
 const peso = 110
-const altura  = 1.88
+const altura  = 1.87
 
 const imc = (peso / ( altura * altura ));
 
